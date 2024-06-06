@@ -1,0 +1,7 @@
+    @font-face {
+        font-family: "yekan";
+        src: url(./YekanBakh-Regular.ttf);
+    }
+    body{
+        font-family: "yekan";
+    }
