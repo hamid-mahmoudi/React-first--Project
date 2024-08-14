@@ -1,0 +1,68 @@
+/* confirmAlert.css */
+
+.react-confirm-alert-overlay {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .react-confirm-alert-body {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+    width: 400px;
+    max-width: 90%;
+  }
+  
+  .react-confirm-alert-body h1 {
+    color: #44475a;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .react-confirm-alert-body p {
+    color: #333;
+    font-size: 16px;
+    margin-bottom: 30px; 
+  }
+
+  .react-confirm-alert-button-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .react-confirm-alert-button-group button {
+    background-color: #bd93f9;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px 10px 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+    width: 100%;
+  }
+  
+  .react-confirm-alert-button-group button:hover {
+    background-color: #6272a4;
+  }
+  
+  .react-confirm-alert-button-group button:last-child {
+    background-color: #ff79c6;
+  }
+  
+  .react-confirm-alert-button-group button:last-child:hover {
+    background-color: #666;
+  }
+
+  .links a,.links button{
+    transition: all .2s ease-in-out;
+  }
+
+  .links a:hover,.links button:hover{
+    transition: all .4s ease-in-out;
+    border: 1px solid #2f80e2;
+    box-shadow: 0 3px 4px rgb(32, 31, 31);
+  }

@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "id": "c67b",
+      "fullname": "elvis noa",
+      "number": "+32 356489421",
+      "email": "mahmodi.h378@gmail.com",
+      "job": "worker",
+      "group": "3",
+      "photo": "https://andyparker.co/wp-content/uploads/2019/06/cropped-Profile-Picture-1.jpeg"
+    },
+    {
+      "id": "2cba",
+      "fullname": "Anthony Hopkins",
+      "number": "+1 264656794",
+      "email": "stephen.hawk@hawk.com",
+      "job": "actor",
+      "group": "4",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fxsgames.co%2Frandomusers%2F&psig=AOvVaw3N2zw7uv_JO7IjSXyDzrKM&ust=1723713529682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD8psWT9IcDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "id": "c9f7",
+      "fullname": "jessie khan",
+      "number": "+90 643871315",
+      "email": "jhan.j3@gmail.com",
+      "job": "teacher",
+      "group": "2",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fxsgames.co%2Frandomusers%2F&psig=AOvVaw3N2zw7uv_JO7IjSXyDzrKM&ust=1723713529682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD8psWT9IcDFQAAAAAdAAAAABAE"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Partner"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Hood"
+    },
+    {
+      "id": "95f9"
+    }
+  ]
+}
